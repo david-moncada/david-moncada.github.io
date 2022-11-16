@@ -158,5 +158,9 @@ footer {
 }
 
 a {
-  color: #fb6f92
+  color: #fb6f92;
+}
+
+a:hover {
+  color: #240046;
 }
