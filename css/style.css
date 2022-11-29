@@ -9,11 +9,11 @@ body {
 }
 
 header, footer {
-  background: rgb(255, 235, 74);
-  background: -moz-radial-gradient(circle, rgba(255, 235, 74, 1) 8%, rgba(240, 41, 41, 1) 62%);
-  background: -webkit-radial-gradient(circle, rgba(255, 235, 74, 1) 8%, rgba(240, 41, 41, 1) 62%);
-  background: radial-gradient(circle, rgba(255, 235, 74, 1) 8%, rgba(240, 41, 41, 1) 62%);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffeb4a", endColorstr="#f02929", GradientType=1);
+  background: rgb(0,101,153);
+  background: -moz-radial-gradient(circle, rgba(0,101,153,1) 0%, rgba(240,41,41,1) 85%);
+  background: -webkit-radial-gradient(circle, rgba(0,101,153,1) 0%, rgba(240,41,41,1) 85%);
+  background: radial-gradient(circle, rgba(0,101,153,1) 0%, rgba(240,41,41,1) 85%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#006599",endColorstr="#f02929",GradientType=1);
   text-align: left;
   /*min-width: 500px;*/
 }
