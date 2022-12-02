@@ -151,14 +151,14 @@ img {
   margin: auto;
 }
 
-footer {
+footer div{
   height: 100%;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-size: 14px;
   display: flex;
   align-content: center;
   padding: 10px 20px;
-  color: rgb(255, 255, 255);
+  color: rgba(255, 255, 255, 0.5);
 }
 
 @media all and (max-width:700px) {
